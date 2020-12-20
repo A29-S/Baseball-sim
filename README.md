@@ -1,2 +1,3 @@
 # Baseball-sim
-NOT YET COMPLETE 
+IN PROGRESS
+simple baseball simulation game with two players in java
